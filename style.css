@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Merienda', cursive;
     margin: 0px;
     color: var(--minion-blue);
 }
@@ -17,6 +17,8 @@ body{
     background-color: var(--primary-color); 
     font-size: 2rem;
     text-align: center;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 .heading{
@@ -30,6 +32,8 @@ body{
 
 .div-main{
     background-color: var(--minion-blue);  
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
 }
 
 .div-body{
